@@ -1,0 +1,6 @@
+*.csv
+*.json
+*.sqlite
+logs/
+__pycache__/
+venv/
